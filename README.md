@@ -1,9 +1,11 @@
 # README
 
+A Complete Ruby on Rails Course by Mashrur Hossain.
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Complete Ruby on Rails Course
 
 Things you may want to cover:
 
